@@ -35,4 +35,5 @@ Got best score and best pipeline given by tpot was ElasticNetCV-ExtraTreesRegres
 -Crossover: Then you select the fittest ones and perform crossover to create a new population.
 -Mutation: You take those children and mutate them with some random modification and repeat the process until you get the fittest or best solution.
  
+ Reference: http://geneticprogramming.com/
  
